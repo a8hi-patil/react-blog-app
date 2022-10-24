@@ -1,0 +1,10 @@
+.Home {
+  align-items: center;
+}
+.Home h1 {
+  text-align: center;
+}
+.intro {
+  width: 80%;
+  margin: auto;
+}
